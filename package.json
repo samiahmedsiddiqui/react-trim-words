@@ -1,10 +1,13 @@
 {
   "name": "react-trim-words",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Trims text to a certain number of words.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test/all.js"
+  },
+  "devDependencies": {
+    "react-trim-words": ">=1.1.1"
   },
   "repository": {
     "type": "git",
