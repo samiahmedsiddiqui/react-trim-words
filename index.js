@@ -1,3 +1,5 @@
+'use strict';
+
 function stripTags(string, remove_breaks) {
   string = string.replace(/<(script|style)[^>]*?>.*?<\/\\1>/si, '');
 
