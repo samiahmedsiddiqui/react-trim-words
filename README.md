@@ -62,7 +62,7 @@ console.log('Trimmed Text is: ', trimmedText);
 | ----------- | ----- | ----------- | ------------- |
 | text | String | Yes | Text to trim. |
 | numWords | String | No | Number of words.<br><br> Default value is `55`. |
-| more | String | No | What to append if $text needs to be trimmed.<br><br> Default '…'. |
+| more | String | No | What to append if `text` needs to be trimmed.<br><br> Default '…' |
 
 ## Return
 
