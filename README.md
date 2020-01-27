@@ -1,3 +1,5 @@
+>  **WARNING:** This project has been renamed to [trim-words](https://www.npmjs.com/package/trim-words). Install using trim-words instead.
+
 # react-trim-words
 
 Trims text to a certain number of words.
